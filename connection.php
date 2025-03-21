@@ -1,8 +1,8 @@
 <?php
-    $server = "rvboutique.c4u3kbg9cpc1.us-east-1.rds.amazonaws.com";
-    $username = "admin";
-    $password = "Sadhwani2402";
-    $database = "rvboutique";
+    $server = "sql12.freesqldatabase.com";
+    $username = "sql12768803";
+    $password = "9xryT8ZbZ6";
+    $database = "sql12768803";
     
     $con = mysqli_connect($server, $username, $password, $database);
     if(!$con){
